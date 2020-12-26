@@ -12,10 +12,10 @@
 
 ## Visualizations
 ### Support Vector Machine(SVM) on Training Set
-![](RandomForestClassification(TrainingSet).jpeg)
+![](SVM(TrainingSet).jpeg)
 
 ### Support Vector Machine(SVM) on Test Set
-![](RandomForestClassification(TestSet).jpeg)
+![](SVM(TestSet).jpeg)
 
 ## Other Models
 #### Other models like Decision Tree, Naive Bayes, Kernel SVM, Random Forest, KNN, and Logistic Regression, were used as well to solve this problem. The table below shows their accuracies in both languages.
