@@ -12,7 +12,7 @@
 ## Accuracy
 #### In both Python&R, an accuracy of 97% was achieved.
  
-##Visualization
+## Visualization
 #### The folder contains the visuals generated in R. The visuals produced in Python can be found in the Python notebook.
  
 ## Other Model
