@@ -17,5 +17,5 @@
  
 ## Other Model
 #### Principal Component Analysis (PCA) can also be used to solve the same problem. The link to the solution using PCA can be found below.
-#### PCA : 
+#### PCA : https://github.com/PranavBhandari97/Machine-Learning-Algorithms/tree/main/Dimensionality%20Reduction/Principal%20Component%20Analysis
 
