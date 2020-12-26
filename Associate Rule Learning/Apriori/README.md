@@ -12,7 +12,7 @@
 ![](FrequentlyBroughtItems(Top-10).jpeg)
 
 ### Some of the rules/ associations found using Apriori
-![] Rules(Top10).JPG)
+![](Rules(Top10).JPG)
 
 #### Even Eclat can be used to solve this problem, and the link to its solution can be found below.
 #### Eclat - https://github.com/PranavBhandari97/Machine-Learning-Algorithms/tree/main/Associate%20Rule%20Learning/Eclat
