@@ -15,7 +15,7 @@
 ![](DecisionTreeClassification(TrainingSet).jpeg)
 
 ### Decision Tree on Test Set
-![](DecisionTreeClassification(TestSet).jpeg)
+![](DecisionTreeClassificaion(TestSet).jpeg)
 
 ## Other Models
 #### Other models like Decision Tree, Random Forest, Naive Bayes, SVM, Kernel SVM, and KNN, were used as well to solve this problem. The table below shows their accuracies in both languages.
