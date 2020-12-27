@@ -15,7 +15,7 @@
 ![](DecisionTreeRegressor.jpeg)
 
 ## Other Models
-#### Other models like Polynoimal Regression, Random Forest and Support Vector Regression (SVR) were used as well to solve this problem. The table below shows their predictions in both languages.
+#### Other models like Polynomial Regression, Random Forest, and Support Vector Regression (SVR) were used as well to solve this problem. The table below shows their predictions in both languages.
 
 ## Predictions of other models
 | Model | Python | R |
