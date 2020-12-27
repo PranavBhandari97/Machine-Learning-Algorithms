@@ -21,7 +21,7 @@
 | Model | Python | R |
 | --- | --- | --- |
 | Decision Tree | 150000 | 250000 |
-| Polynomial Regression | :  158862.45 | :  158862.5 |
+| Polynomial Regression | 158862.45 | 158862.5 |
 |SVR | 170370.02 | 177861.1 |
 
 ## Links to other models
