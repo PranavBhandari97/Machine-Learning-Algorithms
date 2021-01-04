@@ -15,3 +15,7 @@
 ## Accuracy
 #### Python : 86.71%
 #### R : 86.55%
+
+## Improved Model
+#### Kfold cross validation and parameter tuning were applied to the model. It can be found at the link below.
+#### Link:https://github.com/PranavBhandari97/Deep-Learning-Projects/tree/main/Churn%20Modelling%20using%20ANN
