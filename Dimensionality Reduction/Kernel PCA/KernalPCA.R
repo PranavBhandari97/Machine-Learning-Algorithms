@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Dimensionality Reduction/Kernel PCA')
+setwd('E:/Kernel PCA')
 
 #Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
