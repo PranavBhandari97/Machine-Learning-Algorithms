@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Classification/Decision Tree Classification')
+setwd('E:/Decision Tree Classification')
 
 #Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
