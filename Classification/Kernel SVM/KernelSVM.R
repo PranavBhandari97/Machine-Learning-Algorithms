@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:\Pranav\Portfolio\Github\Machine Learning\Classification\Kernel SVM')
+setwd('E:\Classification\Kernel SVM')
 
 #Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
