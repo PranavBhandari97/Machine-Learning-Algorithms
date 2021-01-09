@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Dimensionality Reduction/Linear Discriminant Analysis')
+setwd('E:/Linear Discriminant Analysis')
 
 #Importing the dataset
 dataset = read.csv('Wine.csv')
