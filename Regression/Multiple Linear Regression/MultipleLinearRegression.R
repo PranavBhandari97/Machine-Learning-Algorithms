@@ -2,7 +2,7 @@
 
 #Setting the working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Regression/Multiple Linear Regression')
+setwd('E:/Multiple Linear Regression')
 
 # Importing the dataset
 dataset = read.csv('50_Startups.csv')
