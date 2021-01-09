@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:\Classification\Kernel SVM')
+setwd('E:\Kernel SVM')
 
 #Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
