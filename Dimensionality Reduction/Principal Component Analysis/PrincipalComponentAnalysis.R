@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Dimensionality Reduction/Principal Component Analysis (PCA)')
+setwd('E:/Principal Component Analysis (PCA)')
 
 #Importing the dataset
 dataset = read.csv('Wine.csv')
