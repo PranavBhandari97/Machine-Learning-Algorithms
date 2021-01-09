@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/XG Boost')
+setwd('E:/XG Boost')
 
 #Importing the dataset
 dataset = read.csv('Churn_Modelling.csv')
