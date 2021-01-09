@@ -2,7 +2,7 @@
 
 #Setting the working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Regression/Support Vector Regression(SVR)')
+setwd('E:/Support Vector Regression(SVR)')
 
 # Importing the dataset
 dataset = read.csv('Position_Salaries.csv')
