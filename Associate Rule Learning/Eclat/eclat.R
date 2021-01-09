@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Associate Rule Learning/Eclat')
+setwd('E:/Eclat')
 
 #Data Preprocessing
 #install.packages('arules')
