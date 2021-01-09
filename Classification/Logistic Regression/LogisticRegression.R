@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Classification/Logistic Regression')
+setwd('E:/Logistic Regression')
 
 #Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
