@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Clustering/Hierarchical Clustering')
+setwd('E:/Hierarchical Clustering')
 #Importing the dataset
 dataset = read.csv('Mall_Customers.csv')
 
