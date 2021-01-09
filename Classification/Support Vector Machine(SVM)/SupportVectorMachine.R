@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Classification/Support Vector Machine( SVM)')
+setwd('E:/Support Vector Machine( SVM)')
 
 #Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
