@@ -1,7 +1,7 @@
 
 #Setting the working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Data Preprocessing')
+setwd('E:/Data Preprocessing')
 
 #Importing the dataset
 dataset = read.csv('Data.csv')
