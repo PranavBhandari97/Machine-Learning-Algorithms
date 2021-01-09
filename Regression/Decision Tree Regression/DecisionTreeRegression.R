@@ -2,7 +2,7 @@
 
 #Setting the working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Regression/Decision Tree Regression')
+setwd('E:/Decision Tree Regression')
 
 # Importing the dataset
 dataset = read.csv('Position_Salaries.csv')
