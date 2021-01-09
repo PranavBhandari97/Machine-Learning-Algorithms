@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Reinforcement Learning/Upper Confidence Bound (UBC)')
+setwd('E:/Upper Confidence Bound (UBC)')
 
 #Importing the dataset
 dataset = read.csv('Ads_CTR_Optimisation.csv')
