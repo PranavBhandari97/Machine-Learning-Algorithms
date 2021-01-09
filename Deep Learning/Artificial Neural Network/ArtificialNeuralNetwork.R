@@ -2,7 +2,7 @@
 
 #Setting the working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Deep Learning/Artificial Neural Network')
+setwd('E:/Artificial Neural Network')
 #Importing the dataset
 dataset = read.csv('Churn_Modelling.csv')
 
