@@ -2,7 +2,7 @@
 
 #Setting the working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Model Selection/kFold Cross Validation')
+setwd('E:/kFold Cross Validation')
 
 #Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
