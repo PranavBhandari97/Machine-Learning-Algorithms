@@ -2,7 +2,7 @@
 
 # Setting the working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Regression/Simple Linear Regression')
+setwd('E:/Simple Linear Regression')
 
 # Importing the dataset
 dataset = read.csv('Salary_Data.csv')
