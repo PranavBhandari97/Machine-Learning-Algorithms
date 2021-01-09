@@ -2,7 +2,7 @@
 
 #Setting the working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Regression/Random Forest Regression')
+setwd('E:/Random Forest Regression')
 
 # Importing the dataset
 dataset = read.csv('Position_Salaries.csv')
