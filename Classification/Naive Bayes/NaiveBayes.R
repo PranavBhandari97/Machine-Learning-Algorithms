@@ -2,7 +2,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Classification/Naive Bayes')
+setwd('E:/Naive Bayes')
 
 #Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
