@@ -2,7 +2,7 @@
 
 #Setting the working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/Machine Learning/Natural Language Processing')
+setwd('E:/Natural Language Processing')
 
 #Importing the dataset
 dataset_original = read.delim('Restaurant_Reviews.tsv', quote = '', stringsAsFactors = FALSE)
